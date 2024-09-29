@@ -1,0 +1,29 @@
+
+@media (max-width: 1170px) {
+    /* general css */
+    .section-subtitle {
+      max-width: 60%;
+    }
+    /* navbar css */
+    .header .navbar{
+        background: cover;
+        padding:2rem ;
+    }
+    .header .navbar-nav{
+        margin-top: 2rem;
+
+    }
+    .header .navbar-nav .nav-link{
+        padding: 0.2rem 0.5rem;
+        margin-bottom: 1rem;
+    }
+  }
+  @media (max-width: 991px) {
+    
+    
+  }
+  @media (max-width:767px) {
+    banner-section:100vh;
+
+
+  }
