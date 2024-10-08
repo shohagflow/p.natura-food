@@ -23,7 +23,14 @@
     
   }
   @media (max-width:767px) {
-    banner-section:100vh;
+    .banner-section: 100vh;
 
 
+  }
+
+
+  @media screen and (max-width: 768px){
+    .header .navbar{
+      background-size: cover;
+    }
   }
